@@ -226,4 +226,4 @@ Total: ₹830
 
 Hemamalini Selvaraj
 
-Computer Science Engineering
+
