@@ -80,7 +80,7 @@ if upload_file:
 
         with st.spinner("Thinking..."):
 
-            answer = ask_ai(question, data)
+            answer = ask_ai(question, vectordb)
 
             st.session_state.messages.append(
         {"question": question, "answer": answer}
