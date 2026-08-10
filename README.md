@@ -138,7 +138,7 @@ Banking-AI-Assistant/
 ### Clone Repository
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/HemamaliniSelvaraj4264/Banking-AI-Assistant.git>
 ```
 
 ### Create Virtual Environment
